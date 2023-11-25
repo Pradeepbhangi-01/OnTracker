@@ -32,7 +32,7 @@ It is a Habit Tracker app where we can track the habit of a person on weekly bas
 * views/index.ejs: The page which loads up when the app runs and the user interface with which the user interacts with.
 
 
-# project dependencies
+# Project dependencies
 
 * body-parser
 
